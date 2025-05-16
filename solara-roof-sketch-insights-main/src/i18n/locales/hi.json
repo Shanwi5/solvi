@@ -1,0 +1,31 @@
+{
+  "language": {
+    "en": "अंग्रे़ी",
+    "es": "स्पेनिश",
+    "fr": "फ्रेंच",
+    "de": "जर्मन",
+    "hi": "हिंदी",
+    "ta": "तमिल",
+    "bn": "बंगाली",
+    "te": "तेलुगु"
+  },
+  "navbar": {
+    "home": "होम",
+    "howItWorks": "कैसे काम करता है",
+    "benefits": "लाभ",
+    "contact": "संपर्क करें"
+  },
+  "common": {
+    "getStarted": "शुरू करें"
+  },
+  "regionSelector": {
+    "title": "अपना स्थान चुनें",
+    "stateDescription": "अपना राज्य चुनें",
+    "districtDescription": "अपना जिला चुनें",
+    "selectState": "राज्य चुनें",
+    "selectDistrict": "जिला चुनें",
+    "electricityRate": "बिजली दर",
+    "solarSubsidy": "सौर सब्सिडी",
+    "taxCredit": "कर क्रेडिट"
+  }
+} 
